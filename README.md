@@ -1,4 +1,4 @@
-# BriscolaPaperSourceCode
+# Briscola Paper (Source Code)
 
 Source code accompanying the paper *Greedy dominance in two-player Briscola: a
 Monte Carlo study* by Piero Giacomelli.
